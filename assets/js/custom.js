@@ -1,8 +1,8 @@
 /**
 	Template Name 	 : swigo
-	Author			 : DexignZone
+	Author			 :  SamuelSenerwa
 	Version			 : 1.1
-	Author Portfolio : https://themeforest.net/user/dexignzone/portfolio
+	Author Portfolio : https://themeforest.net/user/ SamuelSenerwa/portfolio
 	
 	Core script to handle the entire theme and core functions
 **/
@@ -479,7 +479,7 @@ var swigo = function(){
 
 	var handleComingSoonCounter = function(){
 		
-		var commingSoonDate = new Date("2023-02-28 00:00:00").getTime();
+		var commingSoonDate = new Date("2024-02-28 00:00:00").getTime();
 		
 		var x = setInterval(function() {
 			clockCounter();
