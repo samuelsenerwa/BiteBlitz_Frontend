@@ -224,13 +224,6 @@ function addSwitcher()
     </div>
   </div>
 </div>`;
-	
-	var demoBox = '<div class="demo-sidebar"><div class="demo-btn-bx"><a class="demo-btn-right" href="javascript:void(0);">Check Demo </a> </div><div class="demo-sidebar-inner content-scroll"><ul><li><a href="index.html?data-color=color_1"><img src="assets/images/demo/demo1.png"/></a><h6>Home 01</h6></li><li><a href="index-2.html?data-color=color_2"><img src="assets/images/demo/demo2.png" /></a><h6>Home 02</h6></li><li><a href="index-3.html?data-color=color_3"><img src="assets/images/demo/demo3.png"/></a><h6>Home 03</h6></li></ul></div></div>';
-	
-	if($("#dzSwitcher-right").length == 0) {
-		jQuery('body').append(dzSwitcher);
-		jQuery('body').append(demoBox);
-	}
 }
 
 jQuery(window).on('load',function(){
