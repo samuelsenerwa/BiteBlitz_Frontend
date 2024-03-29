@@ -12696,7 +12696,7 @@ section {
     animation-fill-mode: both;
     animation-iteration-count: infinite;
     animation-name: swigo-logo;
-    background-image: url(../images/pan1.png);
+    background-image: url(../images/logo_icon.png);
     height: 12px;
     width: 38px;
     position: absolute;
@@ -12710,7 +12710,7 @@ section {
         background-size: 90%; } }
 
 .anim-logo-white:after {
-  background-image: url(../images/pan2.png); }
+  background-image: url(../images/logo_icon.png); }
 
 .header-nav .anim-logo:after,
 .header-nav .anim-logo-white:after,
