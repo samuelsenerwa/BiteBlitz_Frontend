@@ -1,8 +1,8 @@
 /**
 	Template Name 	 : swigo
-	Author			 :  SamuelSenerwa
+	Author			 :  Roland
 	Version			 : 1.1
-	Author Portfolio : https://themeforest.net/user/ SamuelSenerwa/portfolio
+	Author Portfolio : https://themeforest.net/user/ Roland/portfolio
 	
 	Core script to handle the entire theme and core functions
 **/

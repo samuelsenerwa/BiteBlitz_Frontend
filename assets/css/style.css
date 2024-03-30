@@ -1,9 +1,9 @@
 /*
     =========================
 	Template Name 	 : Swigo
-	Author			 :  SamuelSenerwa
+	Author			 :  Roland
 	Version			 : 1.1
-	Author Portfolio : https://themeforest.net/user/ SamuelSenerwa
+	Author Portfolio : https://themeforest.net/user/ Roland
 	=========================
 	
 	[Table of Contents] 
@@ -4049,7 +4049,7 @@ textarea.form-control-lg {
     float: left;
     padding-right: var(--bs-breadcrumb-item-padding-x);
     color: var(--bs-breadcrumb-divider-color);
-    content: var(--bs-breadcrumb-divider, "https://swigo. SamuelSenerwa.com/") /* rtl: var(--bs-breadcrumb-divider, "/") */; }
+    content: var(--bs-breadcrumb-divider, "https://swigo. Roland.com/") /* rtl: var(--bs-breadcrumb-divider, "/") */; }
 
 .breadcrumb-item.active {
   color: var(--bs-breadcrumb-item-active-color); }
@@ -12696,7 +12696,7 @@ section {
     animation-fill-mode: both;
     animation-iteration-count: infinite;
     animation-name: swigo-logo;
-    background-image: url(../images/logo_icon.png);
+    /* background-image: url(../images/logo_icon.png); */
     height: 12px;
     width: 38px;
     position: absolute;
@@ -12710,7 +12710,8 @@ section {
         background-size: 90%; } }
 
 .anim-logo-white:after {
-  background-image: url(../images/logo_icon.png); }
+  /* background-image: url(../images/logo_icon.png);  */
+}
 
 .header-nav .anim-logo:after,
 .header-nav .anim-logo-white:after,
